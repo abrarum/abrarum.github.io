@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.toptal.com	TRUE	/	FALSE	1999999999	visitor_id	9e074a45-1d47-4a2c-9bdf-037c84cb756b
+www.toptal.com	TRUE	/	FALSE	1999999999	_toptal_session_id	cda662f556ecb89fa4cc853d5083405e
+
